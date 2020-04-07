@@ -25,5 +25,8 @@
   "homepage": "https://github.com/mojoaxel/landkreise-deutschland#readme",
   "devDependencies": {
     "jest": "^25.2.7"
+  },
+  "dependencies": {
+    "string-similarity": "^4.0.1"
   }
 }

@@ -10,6 +10,9 @@ Stand: 31.12.2018
 - getDistricts()
 - getDistrictByAGS(ags)
 - getDistrictByNUC(nuc)
+- getDistrictByNameAndType(name, type?)
+
+Beispiele zur Benutzung findet man im `tests` Ordner.
 
 ## Example District:
 
@@ -26,6 +29,20 @@ Stand: 31.12.2018
 	"population_per_km2": 2017
 }
 ```
+
+## Update
+
+Sollen die Daten upgedated werden sind folgende Schritte durchzuführen:
+
+- Neue XLSX Datei [herunterladen](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html).
+- Die Datei als CSV exportieren.
+- CSV-Datei aufräumen.
+- Spalten-Namen ändern.
+- Alle Zahlenformate anpassen.
+- Folgender String muss aus allen Namen entfernt werden: `, Stadtkreis`
+- Als CSV abspiechern.
+- CSV in JSON konvertieren.
+
 
 ## Quelle
 

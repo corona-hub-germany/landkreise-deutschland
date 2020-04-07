@@ -4,6 +4,29 @@ Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdi
 
 Stand: 31.12.2018
 
+## API
+
+- DISTRICT_FIELDS
+- getDistricts()
+- getDistrictByAGS(ags)
+- getDistrictByNUC(nuc)
+
+## Example District:
+
+```js
+{
+	"AGS": "09563",
+	"type": "Kreisfreie Stadt",
+	"name": "Fürth",
+	"NUTS3": "DE253",
+	"area_km2": 63.35,
+	"population": 127748,
+	"population_male": 62603,
+	"population_female": 65145,
+	"population_per_km2": 2017
+}
+```
+
 ## Quelle
 
 https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
@@ -18,6 +41,6 @@ Quelle: Gemeindeverzeichnis-Informationssystem GV-ISys
 
 ## Lizenz
 
-CC-BY © Statistisches Bundesamt (Destatis), 2019, Daten im Auftrag der Herausgebergemeinschaft Statistische Ämter des Bundes und der Länder, 
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode) © Statistisches Bundesamt (Destatis), 2019, Daten im Auftrag der Herausgebergemeinschaft Statistische Ämter des Bundes und der Länder, 
 
 Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.

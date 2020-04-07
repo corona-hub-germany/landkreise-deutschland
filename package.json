@@ -1,0 +1,29 @@
+{
+  "name": "landkreise-deutschland",
+  "version": "1.0.0",
+  "description": "Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/landkreise-deutschland.git"
+  },
+  "keywords": [
+    "germany",
+    "districts",
+    "landkreise",
+    "Deutschland"
+  ],
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/landkreise-deutschland/issues"
+  },
+  "homepage": "https://github.com/mojoaxel/landkreise-deutschland#readme",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}

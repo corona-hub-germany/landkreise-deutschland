@@ -1960,7 +1960,7 @@
   {
     "AGS": "08111",
     "type": "Stadtkreis",
-    "name": "Stuttgart, Stadtkreis",
+    "name": "Stuttgart",
     "NUTS3": "DE111",
     "area_km2": 207.33,
     "population": 634830,
@@ -2026,7 +2026,7 @@
   {
     "AGS": "08121",
     "type": "Stadtkreis",
-    "name": "Heilbronn, Stadtkreis",
+    "name": "Heilbronn",
     "NUTS3": "DE117",
     "area_km2": 99.89,
     "population": 125960,
@@ -2103,7 +2103,7 @@
   {
     "AGS": "08211",
     "type": "Stadtkreis",
-    "name": "Baden-Baden, Stadtkreis",
+    "name": "Baden-Baden",
     "NUTS3": "DE121",
     "area_km2": 140.19,
     "population": 55123,
@@ -2114,7 +2114,7 @@
   {
     "AGS": "08212",
     "type": "Stadtkreis",
-    "name": "Karlsruhe, Stadtkreis",
+    "name": "Karlsruhe",
     "NUTS3": "DE122",
     "area_km2": 173.42,
     "population": 313092,
@@ -2147,7 +2147,7 @@
   {
     "AGS": "08221",
     "type": "Stadtkreis",
-    "name": "Heidelberg, Stadtkreis",
+    "name": "Heidelberg",
     "NUTS3": "DE125",
     "area_km2": 108.83,
     "population": 160355,
@@ -2158,7 +2158,7 @@
   {
     "AGS": "08222",
     "type": "Stadtkreis",
-    "name": "Mannheim, Stadtkreis",
+    "name": "Mannheim",
     "NUTS3": "DE126",
     "area_km2": 144.97,
     "population": 309370,
@@ -2191,7 +2191,7 @@
   {
     "AGS": "08231",
     "type": "Stadtkreis",
-    "name": "Pforzheim, Stadtkreis",
+    "name": "Pforzheim",
     "NUTS3": "DE129",
     "area_km2": 97.99,
     "population": 125542,
@@ -2235,7 +2235,7 @@
   {
     "AGS": "08311",
     "type": "Stadtkreis",
-    "name": "Freiburg im Breisgau, Stadtkreis",
+    "name": "Freiburg im Breisgau",
     "NUTS3": "DE131",
     "area_km2": 153.04,
     "population": 230241,
@@ -2378,7 +2378,7 @@
   {
     "AGS": "08421",
     "type": "Stadtkreis",
-    "name": "Ulm, Stadtkreis",
+    "name": "Ulm",
     "NUTS3": "DE144",
     "area_km2": 118.68,
     "population": 126329,

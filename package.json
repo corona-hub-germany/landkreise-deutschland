@@ -1,6 +1,6 @@
 {
   "name": "landkreise-deutschland",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte",
   "main": "lib/index.js",
   "scripts": {

@@ -1,5 +1,7 @@
 # landkreise-deutschland
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mojoaxel/landkreise-deutschland.svg)](https://greenkeeper.io/)
+
 Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte
 
 Stand: 31.12.2018
